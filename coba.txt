@@ -1,0 +1,12 @@
+<!DOCTYPE hmtl>
+<hmtl>
+<head>
+<tittle> halo semuanya </tittle>
+</head>
+<body>
+
+<h1 style= "color:blue"> nama saya aldo </h1>
+<p> saya lahir di bumi indonesia pertiwi</p>
+
+</body>
+</hmtl> 
